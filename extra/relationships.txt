@@ -1,0 +1,23 @@
+'User' is either a 'Coach' or 'Client'
+
+'Users' can communicate through messages (specifically between 'coach' and 'client')
+
+Each 'Coach' has their own single 'ExerciseLibrary'.
+'Exercise' can be made and save general information.
+Many 'Exercise' can be saved within the 'ExerciseLibrary.'
+
+'Coach' can make many different 'Program'.
+A 'Program' can have many 'Workout' in them.
+A 'Workout' can have 0 to many 'WorkoutExercise', 'WarmUp', 'Supersets', 'Circuits', 'Cardio'
+
+'WorkoutExercise' is made up of a single 'Exercise', and other additional info that will change per 'Workout'.
+
+'WarmUp' is made up of one to many 'Exercise', and other additional info that will change per 'Workout'.
+
+'Supersets' is made up of one to many 'Exercise', and other additional info that will change per 'Workout'.
+
+'Circuits' is made up of one to many 'Exercise', and other additional info that will change per 'Workout'.
+
+'Cardio' is made up of one to many 'Exercise', and other additional info that will change per 'Workout'.
+
+For all 'WorkoutExercise', 'WarmUp', 'Supersets', 'Circuits', 'Cardio', the 'Client' can submit 0 to many notes, photos, videos through 'ClientSubmissions'
