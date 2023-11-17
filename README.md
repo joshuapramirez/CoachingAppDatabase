@@ -3,7 +3,7 @@
 By Joshua Ramirez
 
 ## Video Link
-[Link to the Google Clone App Video](https://youtu.be/wQTS7ydQHmE)
+[Link to the Coaching App Video](https://youtu.be/wQTS7ydQHmE)
 
 # SQLite Database Initialization, Schema Integration, and Table Retrieval
 1. sqlite3 coaching.db
