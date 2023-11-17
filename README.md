@@ -2,7 +2,8 @@
 
 By Joshua Ramirez
 
-Video overview: <https://youtu.be/wQTS7ydQHmE>
+## Video Link
+[Link to the Google Clone App Video](https://youtu.be/wQTS7ydQHmE)
 
 # Initializing the SQLite Database
 1. sqlite3 coaching.db
