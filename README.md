@@ -5,7 +5,7 @@ By Joshua Ramirez
 ## Video Link
 [Link to the Google Clone App Video](https://youtu.be/wQTS7ydQHmE)
 
-# Initializing the SQLite Database
+# SQLite Database Initialization, Schema Integration, and Table Retrieval
 1. sqlite3 coaching.db
 2. .read schema.sql
 3. .read queries.sql
